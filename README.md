@@ -24,7 +24,7 @@ A polished nameplate castbar addon that shows castbars on all visible enemy name
 
 ## Installation
 - **Download/extract** the folder `PlateCastBarFixed` into `Interface/AddOns/`.
-- For Epoch servers (recommended): use the AwesomeEpoch nameplate backport to enable modern nameplate events on 3.3.5a:
+- For Epoch servers (recommended): use AwesomeEpoch to enable modern nameplate events on 3.3.5:
   - https://github.com/thierbig/AwesomeEpoch
 - Alternative (general): awesome_wotlk
   - https://github.com/someweirdhuman/awesome_wotlk
