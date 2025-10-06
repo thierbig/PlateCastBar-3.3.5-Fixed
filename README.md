@@ -3,6 +3,8 @@
 A polished nameplate castbar addon that shows castbars on all visible enemy nameplates (even when not targeted). Includes a full options panel, test mode, Blizzard-like defaults, scrollable media pickers, and smart fading.
 
 <img width="1076" height="642" alt="image" src="https://github.com/user-attachments/assets/df23f1cf-23fe-4446-a006-d4ef75f6b01e" />
+<img width="1046" height="1034" alt="image" src="https://github.com/user-attachments/assets/9b4777e3-b91d-4c74-9f4a-6ad7ce3325ac" />
+
 
 ## Features
 - **All nameplates**: Shows the castbar for any visible enemy that is casting, not just your target.
@@ -49,8 +51,6 @@ A polished nameplate castbar addon that shows castbars on all visible enemy name
 
 ## Compatibility
 - **Client**: Built for WoW 3.3.5 client. Requires AwesomeEpoch if you play on Epoch (recommended for Epoch) or awesome_wotlk.
-
-## Screenshot
 
 ## Credits
 - **Original**: PlateCastBar by Macumbafeh — https://github.com/Macumbafeh/PlateCastBar_awesome_wotlk
