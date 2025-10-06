@@ -2,6 +2,8 @@
 ## Modern nameplate castbar for WoW 3.3.5
 A polished nameplate castbar addon that shows castbars on all visible enemy nameplates (even when not targeted). Includes a full options panel, test mode, Blizzard-like defaults, scrollable media pickers, and smart fading.
 
+<img width="1076" height="642" alt="image" src="https://github.com/user-attachments/assets/df23f1cf-23fe-4446-a006-d4ef75f6b01e" />
+
 ## Features
 - **All nameplates**: Shows the castbar for any visible enemy that is casting, not just your target.
 - **Blizzard-like preset**: One-click "Blizzard Defaults" button sets the texture to `Interface\\TargetingFrame\\UI-StatusBar` and the font to `Fonts\\FRIZQT__.TTF`.
